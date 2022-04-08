@@ -1,3 +1,37 @@
 #sidebar {
   width: 200px;
 }
+#Countries {
+  width: 300px;
+  font-size: 20px;
+  cursor: pointer;
+  
+}
+
+#selected:hover{
+  background-color: rgb(222, 68, 212);
+  cursor: pointer;
+
+}
+
+#buttonCities:hover{
+  background-color: rgb(74, 209, 37);
+  cursor: pointer;
+}
+
+#buttonCities{
+  width: 600px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+
+}
+#buttonGeo:hover{
+  background-color: rgb(74, 209, 37);
+  cursor: pointer;
+}
+#City {
+  width: 300px;
+  font-size: 20px;
+  cursor: pointer;
+}
